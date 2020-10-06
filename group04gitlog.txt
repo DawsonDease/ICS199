@@ -1,0 +1,2 @@
+Dawson: Added view all and made .categories height auto for a better fit
+Dawson: working version
